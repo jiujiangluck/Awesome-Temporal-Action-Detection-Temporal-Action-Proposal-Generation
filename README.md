@@ -39,7 +39,6 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 - **VALSE talk by Tianwei Lin** (2020.03.18) [link](https://pan.baidu.com/s/18uPJX3l69qJHaYOdeJ0IQw?errmsg=Auth+Login+Sucess&errno=0&ssnerror=0&) (7y8g)
 - (RapNet) **Accurate Temporal Action Proposal Generation with Relation-Aware Pyramid Network** (AAAI 2020) [pre-paper 2019 ActivityNet task-1 2nd](https://arxiv.org/abs/1908.03448)
 - (DBG) **Fast Learning of Temporal Action Proposal via Dense Boundary Generator** (AAAI 2020) [paper](https://arxiv.org/abs/1911.04127) [code.TensorFlow](https://github.com/TencentYoutuResearch/ActionDetection-DBG)
-- (BC-GNN)**Boundary Content Graph Neural Network for Temporal Action Proposal Generation** (arxiv 2020) [paper](https://arxiv.org/abs/2008.01432v1)
 
 ## 2019
 
