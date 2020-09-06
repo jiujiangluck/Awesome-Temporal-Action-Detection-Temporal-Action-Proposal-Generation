@@ -1,10 +1,4 @@
-<!--
- * @Author: fzy
- * @Date: 2020-03-09 21:53:10
- * @LastEditors: Zhenying
- * @LastEditTime: 2020-08-19 20:42:56
- * @Description: 
- -->
+
 # Awesome-Temporal-Action-Detection-Temporal-Action-Proposal-Generation
 Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp; Temporal Action Proposal Generation
 
