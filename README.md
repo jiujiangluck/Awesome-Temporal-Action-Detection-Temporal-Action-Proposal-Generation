@@ -22,6 +22,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
   - [2020](#2020-2)
   - [2019](#2019-2)
   - [2018](#2018-2)
+  - [2017](#2017-2)
 
 
 -----
@@ -162,3 +163,7 @@ Temporal Action Detection &amp; Weakly Supervised Temporal Action Detection &amp
 - (STAR) **Segregated Temporal Assembly Recurrent Networks for Weakly Supervised Multiple Action Detection** (AAAI 2019) [paper](https://arxiv.org/abs/1811.07460)
 
 ## 2018
+- (STPN) **Weakly Supervised Action Localization by Sparse Temporal Pooling Network** (CVPR 2018) [paper](https://arxiv.org/abs/1712.05080)
+## 2017
+- (UntrimmedNets) **UntrimmedNets for Weakly Supervised Action Recognition and Detection** (CVPR 2017) [paper](https://arxiv.org/abs/1703.03329) [code.caffe](https://github.com/wanglimin/UntrimmedNet)
+- **Weakly Supervised Action Learning with RNN based Fine-to-coarse Modeling** (CVPR 2017) [paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Richard_Weakly_Supervised_Action_CVPR_2017_paper.pdf)
